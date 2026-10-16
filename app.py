@@ -12,6 +12,8 @@ def main():
 
     print(greet_student(student_name))
     print("Today we are learning Git and GitHub!")
+    print("Project updated successfully!")
+
 
 
 if __name__ == "__main__":
